@@ -1,0 +1,20 @@
+{
+  "name": "wx_blacklist-ts",
+  "version": "1.0.0",
+  "description": "Simple discord blacklisting bot, rewritten in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/Bot.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wx",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
