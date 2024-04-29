@@ -1,2 +1,8 @@
-# wx_devlog
-Simple Discord Bot for writing down dev changes
+# Installation
+
+```sh
+cd wx_devlog
+# edit your config
+npm i
+npm start
+```
